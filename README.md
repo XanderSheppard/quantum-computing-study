@@ -1,7 +1,7 @@
 # Quantum Computing Study Repository
 
 Welcome to my personal Quantum Computing study repository.  
-This repo tracks my learning journey through quantum mechanics, quantum algorithms, quantum optics, semiconductor physics, and quantum control.  
+This repo tracks my learning journey through quantum mechanics and quantum algorithms.
 
 ---
 
@@ -15,16 +15,7 @@ This repo tracks my learning journey through quantum mechanics, quantum algorith
 
 - `03_quantum_algorithms/`  
   Implementations and notes on quantum algorithms like Grover's, Deutsch-Jozsa, and quantum teleportation.
-
-- `04_quantum_optics/`  
-  Simulations and notes related to quantum states of light and photonics.
-
-- `05_quantum_measurement_control/`  
-  Simulations of open quantum systems and quantum feedback control.
-
-- `06_semiconductor_physics/`  
-  Notes and projects focused on semiconductor device physics relevant to quantum computing.
-
+  
 - `resources/`  
   Book summaries, cheat sheets, and useful learning links.
 
@@ -49,5 +40,5 @@ Run Jupyter notebooks in each folder to interactively explore the concepts.
 ## Contact
 
 Feel free to open issues or pull requests.  
-Created by Xander Sheppard — Quantum Research Scientist.
+Created by Xander Sheppard — Quantum & AI Research Scientist.
 
