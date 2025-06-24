@@ -7,7 +7,7 @@ This repo tracks my learning journey through quantum mechanics and quantum algor
 
 ## Structure
 
-- `01_foundations_quantum_mechanics/`  
+- `01_quantum_mechanics/`  
   Notes and problem solutions covering foundational quantum mechanics concepts.
 
 - `02_linear_algebra/`  
